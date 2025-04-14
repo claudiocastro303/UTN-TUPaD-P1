@@ -2,9 +2,12 @@
 """Escribir un programa que solicite la edad del usuario. Si el usuario es mayor de 18 años,
 deberá mostrar un mensaje en pantalla que diga “Es mayor de edad” """
 #Solución
-"""edad = int(input("ingrese su edad: "))
+edad = int(input("ingrese su edad: "))
 if edad >= 18:
-  print("Es mayor de edad.")   """
+  print("Es mayor de edad.")   
+print(0!="0")
+print(5<=6)
+print(6>=5)
 #Ejercicio N°2
 """Escribir un programa que solicite su nota al usuario. Si la nota es mayor o igual a 6, deberá
 mostrar por pantalla un mensaje que diga “Aprobado”; en caso contrario deberá mostrar el
